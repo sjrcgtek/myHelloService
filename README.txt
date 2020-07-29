@@ -15,3 +15,5 @@ SJR-Mac-Mini:myHelloService sjrogers$ sls invoke -f hello
     "body": "{\n  \"message\": \"Go Serverless v1.0! Your function executed successfully!\",\n  \"input\": {}\n}"
 }
 SJR-Mac-Mini:myHelloService sjrogers$
+
+
